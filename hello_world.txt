@@ -1,2 +1,3 @@
 Hello World
 This is my first Odin Project project.
+Testing the Visual Studio Code commit message feature.
